@@ -1,3 +1,8 @@
+<div align="center">
+
+![Estudando python](https://miro.medium.com/max/1400/1*ycIMlwgwicqlO6PcFRA-Iw.png)
+
+</div>
 # Estudando Python
 ## Lista ou array
 ### Alterar, acrescentar e remover elementos
