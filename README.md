@@ -10,3 +10,4 @@
 
 * ![Ordenando Listas](https://github.com/Maicondlp/Python/blob/main/Manual/listas.md)
 * ![List Comprehetions](https://github.com/Maicondlp/Python/blob/main/Manual/list_comprehetions.md)
+* ![Fatiando uma lista](https://github.com/Maicondlp/Python/blob/main/Manual/fatiando_lista.md)
