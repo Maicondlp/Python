@@ -9,3 +9,4 @@
 * ![Listas ou Arrays](https://github.com/Maicondlp/Python/blob/main/Manual/listas.md)
 
 * ![Ordenando Listas](https://github.com/Maicondlp/Python/blob/main/Manual/listas.md)
+* ![List Comprehetions](https://github.com/Maicondlp/Python/blob/main/Manual/list_comprehetions.md)
